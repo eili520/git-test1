@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello git! ggg");
         System.out.println("Hello git! aaa");
         System.out.println("Hello git! ggg");
+        System.out.println("pull test");
     }
 }
